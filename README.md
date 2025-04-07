@@ -32,7 +32,28 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **To CoT or not to CoT? Chain-of-thought Helps Mainly on Math and Symbolic Reasoning** [[Paper](https://arxiv.org/pdf/2409.12183)] (2024.9)
   - Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, Greg Durrett
   - The University of Texas at Austin, Johns Hopkins University, Princeton University
-
+- **Abstract Meaning Representation-Based Logic-Driven Data Augmentation for Logical Reasoning** [[Paper](https://aclanthology.org/2024.findings-acl.353/)] (ACL Findings 2024)
+  - Qiming Bao, Alex Peng, Zhenyun Deng, Wanjun Zhong, Gaël Gendron, Neşet Tan, Nathan Young, Yang Chen, Yonghua Zhu, Michael Witbrock, Jiamou Liu
+  - Strong AI Lab, NAOInstitute, Waipapa Taumata Rau - The University of Auckland, Xtracta, University of Cambridge, Sun Yat-Sen University
+- **AbductionRules: Training Transformers to Explain Unexpected Inputs** [[Paper](https://aclanthology.org/2022.findings-acl.19/)] (ACL Findings 2022)
+  - Nathan Young, Qiming Bao, Joshua Bensemann, Michael Witbrock
+  - Strong AI Lab, NAOInstitute, Waipapa Taumata Rau - The University of Auckland
+- **Large language models are not strong abstract reasoners** [[Paper](https://dl.acm.org/doi/10.24963/ijcai.20)] (IJCAI 2024)
+  - Gaël Gendron, Qiming Bao, Michael Witbrock, Gillian Dobbie
+  - Strong AI Lab, NAOInstitute, Waipapa Taumata Rau - The University of Auckland
+- **Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning** [[Paper](https://arxiv.org/abs/2310.09430)] (ICONIP 2024)
+  - Qiming Bao, Gael Gendron, Alex Yuxuan Peng, Wanjun Zhong, Neset Tan, Yang Chen, Michael Witbrock, Jiamou Liu
+  - Strong AI Lab, NAOInstitute, Waipapa Taumata Rau - The University of Auckland, Sun Yat-Sen University
+- **Exploring Iterative Enhancement for Improving Learnersourced Multiple-Choice Question Explanations with Large Language Models** [[Paper](http://arxiv.org/abs/2309.10444)] (AAAI/EAAI 2025)
+  - Qiming Bao, Juho Leinonen, Alex Yuxuan Peng, Wanjun Zhong, Tim Pistotti, Alice Huang, Paul Denny, Michael Witbrock, Jiamou Liu
+  - Strong AI Lab, NAOInstitute, Waipapa Taumata Rau - University of Auckland, Xtracta, Sun Yat-Sen University, University of Sydney
+- **Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation** [[Paper](http://arxiv.org/abs/2309.10444)] (NeSy 2022)
+  - Qiming Bao, Alex Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu
+  - Strong AI Lab, NAOInstitute, Waipapa Taumata Rau - University of Auckland, Xtracta, University of Cambridge
+- **ChatLogic: Integrating Logic Programming with Large Language Models for Multi-step Reasoning** [[Paper](https://openreview.net/forum?id=AOqGF7Po7Z)] (NucLeaR@AAAI 2024)
+  - Zhongsheng Wang, Jiamou Liu, Qiming Bao, Hongfei Rong, Jingfeng Zhang
+  - University of Auckland
+    
 ### Reasoning Bootstrapping
 - **STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning** [[Paper]](https://papers.nips.cc/paper_files/paper/2022/file/639a9a172c044fbb64175b5fad42e9a5-Paper-Conference.pdf) [[Github]](https://github.com/ezelikman/STaR) (NeurIPS 2022)
   - Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
