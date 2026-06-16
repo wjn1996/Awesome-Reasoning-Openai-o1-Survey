@@ -66,6 +66,12 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond** [[https://arxiv.org/abs/2411.03590]] (2024)
   - Harsha Nori, Naoto Usuyama, Nicholas King, Scott Mayer McKinney, Xavier Fernandes, Sheng Zhang, Eric Horvitz
   - Microsoft, OpenAI
+- **s1: Simple test-time scaling** [[Paper](https://arxiv.org/abs/2501.19393)] [[Github](https://github.com/simplescaling/s1)] (2025)
+  - Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto
+  - Stanford, University of Washington, UC Berkeley
+- **Kimi k1.5: Scaling Reinforcement Learning with LLMs** [[Paper](https://arxiv.org/abs/2501.12599)] (2025)
+  - Kimi Team
+  - Moonshot AI
 
 ### Self-play Learning
 - **Mastering Chess and Shogi by Self-play with a General Reinforcement Learning Algorithm** [[Paper](https://arxiv.org/pdf/1712.01815)] (2017)
@@ -123,6 +129,9 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Math-shepherd: Verify and Reinforce LLMs step-by-step without Human Annotations** [[Paper](https://aclanthology.org/2024.acl-long.510.pdf)] (ACL 2024)
   - Peiyi Wang, Lei Li, Zhihong Shao, Runxin Xu, Damai Dai, Yifei Li, Deli Chen, Yu Wu, Zhifang Sui
   - Peking University, DeepSeek AI, HKU, Tsinghua University, The Ohio State University
+- **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning** [[Paper](https://arxiv.org/abs/2501.12948)] [[Github](https://github.com/deepseek-ai/DeepSeek-R1)] (2025)
+  - DeepSeek-AI
+  - DeepSeek AI
 
 ## Social News
 
